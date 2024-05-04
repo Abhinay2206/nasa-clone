@@ -1,0 +1,517 @@
+.heading-2 {
+    position: absolute;
+    top: 39.53px;
+    left: 32px;
+    line-height: 45.6px;
+    display: flex;
+    color: #1b1b1b;
+    align-items: center;
+    width: 351.8px;
+    height: 45.6px;
+}
+.more-nasa-news {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 22.4px;
+    display: flex;
+    align-items: center;
+    width: 192.2px;
+    height: 22.4px;
+}
+.featured-svg-icon {
+    position: absolute;
+    top: calc(50% + 45.7px);
+    left: 197.5px;
+    width: 26.6px;
+    height: 26.6px;
+    object-fit: contain;
+}
+.link {
+    position: absolute;
+    top: calc(50% - 283.07px);
+    right: 32px;
+    width: 220px;
+    height: 22.4px;
+    font-size: 22.4px;
+}
+.figure-starlinerjpg {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 640px;
+    height: 400px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.svg-icon1 {
+    position: absolute;
+    top: calc(50% - 176px);
+    left: 24px;
+    width: 16px;
+    height: 16px;
+}
+.news-release {
+    position: absolute;
+    top: 26.4px;
+    left: 48px;
+    letter-spacing: 3.5px;
+    line-height: 11.2px;
+    text-transform: uppercase;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    width: 123px;
+    height: 11.2px;
+}
+.min-read {
+    position: absolute;
+    top: 310.62px;
+    left: 24px;
+    letter-spacing: 3.5px;
+    line-height: 11.2px;
+    text-transform: uppercase;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    width: 102.6px;
+    height: 11.2px;
+}
+.nasa-sets-coverage {
+    margin: 0;
+}
+.nasa-sets-coverage-container1 {
+    width: 100%;
+}
+.nasa-sets-coverage-container {
+    position: absolute;
+    top: 329.77px;
+    left: 24px;
+    font-size: 22px;
+    line-height: 23.1px;
+    display: flex;
+    font-family: 'Public Sans';
+    align-items: center;
+    width: 589.2px;
+    height: 46.2px;
+}
+.background1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background: linear-gradient(74.44deg, #000, rgba(0, 0, 0, 0) 99.04%);
+}
+.link1 {
+    position: absolute;
+    width: calc(100% - 656px);
+    top: 0px;
+    right: 656px;
+    left: 0px;
+    background-color: #000;
+    height: 400px;
+    overflow: hidden;
+    color: #fff;
+}
+.figure-52308729689-a0449d5ce {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 312px;
+    height: 400px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.min-read1 {
+    position: absolute;
+    top: 264.43px;
+    left: 24px;
+    letter-spacing: 3.5px;
+    line-height: 11.2px;
+    text-transform: uppercase;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    width: 102.6px;
+    height: 11.2px;
+}
+.former-nasa-center-container {
+    position: absolute;
+    top: 283.57px;
+    left: 24px;
+    font-size: 22px;
+    line-height: 23.1px;
+    display: flex;
+    font-family: 'Public Sans';
+    align-items: center;
+    width: 221.9px;
+    height: 92.4px;
+}
+.background2 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background: linear-gradient(60.27deg, #000, rgba(0, 0, 0, 0) 99.04%);
+}
+.link2 {
+    position: absolute;
+    height: 100%;
+    width: calc(100% - 328px);
+    top: 0px;
+    right: 328px;
+    bottom: 0px;
+    left: 0px;
+    background-color: #000;
+    overflow: hidden;
+}
+.svg-icon3 {
+    position: absolute;
+    top: calc(50% - 72px);
+    left: 24px;
+    width: 16px;
+    height: 16px;
+}
+.article {
+    position: absolute;
+    top: 26.4px;
+    left: 48px;
+    letter-spacing: 3.5px;
+    line-height: 11.2px;
+    text-transform: uppercase;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    width: 71.9px;
+    height: 11.2px;
+}
+.min-read2 {
+    position: absolute;
+    top: 56.43px;
+    left: 24px;
+    letter-spacing: 3.5px;
+    line-height: 11.2px;
+    text-transform: uppercase;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    width: 102.6px;
+    height: 11.2px;
+}
+.researchers-develop-founding-container {
+    position: absolute;
+    top: 75.57px;
+    left: 24px;
+    font-size: 22px;
+    line-height: 23.1px;
+    display: flex;
+    font-family: 'Public Sans';
+    align-items: center;
+    width: 252.9px;
+    height: 92.4px;
+}
+.background3 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background: linear-gradient(74.67deg, #000, rgba(0, 0, 0, 0) 99.04%);
+}
+.link3 {
+    position: absolute;
+    height: calc(100% - 208px);
+    width: 100%;
+    top: 0px;
+    right: 0px;
+    bottom: 208px;
+    left: 0px;
+    background-color: #000;
+    overflow: hidden;
+}
+.figure-wff-2024-021-484jpg {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 312px;
+    height: 192px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.hi-c-rocket-experiment-container {
+    position: absolute;
+    top: 75.57px;
+    left: 24px;
+    font-size: 22px;
+    line-height: 23.1px;
+    display: flex;
+    font-family: 'Public Sans';
+    align-items: center;
+    width: 252.6px;
+    height: 92.4px;
+}
+.link4 {
+    position: absolute;
+    height: calc(100% - 208px);
+    width: 100%;
+    top: 208px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    background-color: #000;
+    overflow: hidden;
+}
+.container3 {
+    position: absolute;
+    height: 100%;
+    width: calc(100% - 328px);
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 328px;
+}
+.container2 {
+    position: absolute;
+    height: calc(100% - 119.7px);
+    width: calc(100% - 656px);
+    top: 0px;
+    right: 0px;
+    bottom: 119.7px;
+    left: 656px;
+    color: #fff;
+}
+.background-icon {
+    position: absolute;
+    width: calc(100% - 228px);
+    top: 7.85px;
+    right: 228px;
+    left: 0px;
+    border-radius: 40px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 80px;
+    object-fit: cover;
+}
+.min-read4 {
+    position: absolute;
+    top: 0px;
+    left: 104px;
+    letter-spacing: 3.5px;
+    line-height: 11.2px;
+    text-transform: uppercase;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    width: 102.6px;
+    height: 11.2px;
+}
+.nasa-is-helping-container {
+    position: absolute;
+    top: 19.2px;
+    left: 104px;
+    font-size: 14px;
+    line-height: 17.5px;
+    display: flex;
+    font-family: 'Public Sans';
+    align-items: center;
+    width: 164.1px;
+    height: 52.5px;
+}
+.svg-icon5 {
+    position: absolute;
+    top: calc(50% + 31.85px);
+    left: 104px;
+    width: 16px;
+    height: 16px;
+}
+.article2 {
+    position: absolute;
+    top: 82.1px;
+    left: 128px;
+    letter-spacing: 3.5px;
+    line-height: 11.2px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #58585b;
+    display: flex;
+    align-items: center;
+    width: 71.9px;
+    height: 11.2px;
+}
+.link5 {
+    position: absolute;
+    width: calc(100% - 988px);
+    top: 424px;
+    right: 988px;
+    left: 0px;
+    height: 95.7px;
+}
+.nasa-technology-grants-container {
+    position: absolute;
+    top: 19.2px;
+    left: 104px;
+    font-size: 14px;
+    line-height: 17.5px;
+    display: flex;
+    font-family: 'Public Sans';
+    align-items: center;
+    width: 196.4px;
+    height: 52.5px;
+}
+.news-release2 {
+    position: absolute;
+    top: 82.1px;
+    left: 128px;
+    letter-spacing: 3.5px;
+    line-height: 11.2px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #58585b;
+    display: flex;
+    align-items: center;
+    width: 123px;
+    height: 11.2px;
+}
+.link6 {
+    position: absolute;
+    width: calc(100% - 988px);
+    top: 424px;
+    right: 664px;
+    left: 324px;
+    height: 95.7px;
+}
+.background-icon2 {
+    position: absolute;
+    width: calc(100% - 228px);
+    top: 0px;
+    right: 228px;
+    left: 0px;
+    border-radius: 40px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 80px;
+    object-fit: cover;
+}
+.min-read6 {
+    position: absolute;
+    top: 0.9px;
+    left: 104px;
+    letter-spacing: 3.5px;
+    line-height: 11.2px;
+    text-transform: uppercase;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    width: 102.6px;
+    height: 11.2px;
+}
+.whats-up-may-container {
+    position: absolute;
+    top: 20.1px;
+    left: 104px;
+    font-size: 14px;
+    line-height: 17.5px;
+    display: flex;
+    font-family: 'Public Sans';
+    align-items: center;
+    width: 197.5px;
+    height: 35px;
+}
+.svg-icon7 {
+    position: absolute;
+    top: calc(50% + 23.1px);
+    left: 104px;
+    width: 16px;
+    height: 16px;
+}
+.article3 {
+    position: absolute;
+    top: 65.49px;
+    left: 128px;
+    letter-spacing: 3.5px;
+    line-height: 11.2px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #58585b;
+    display: flex;
+    align-items: center;
+    width: 71.9px;
+    height: 11.2px;
+}
+.link7 {
+    position: absolute;
+    width: calc(100% - 988px);
+    top: 424px;
+    right: 340px;
+    left: 648px;
+    height: 80px;
+}
+.min-read7 {
+    position: absolute;
+    top: 0px;
+    left: 104px;
+    letter-spacing: 3.5px;
+    line-height: 11.2px;
+    text-transform: uppercase;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    width: 112.8px;
+    height: 11.2px;
+}
+.asian-american-and-native-container {
+    position: absolute;
+    top: 19.2px;
+    left: 104px;
+    font-size: 14px;
+    line-height: 17.5px;
+    display: flex;
+    font-family: 'Public Sans';
+    align-items: center;
+    width: 181.1px;
+    height: 52.5px;
+}
+.link8 {
+    position: absolute;
+    width: calc(100% - 988px);
+    top: 424px;
+    right: 16px;
+    left: 972px;
+    height: 95.7px;
+}
+.container1 {
+    position: absolute;
+    width: calc(100% - 64px);
+    top: 149.26px;
+    right: 32px;
+    left: 32px;
+    height: 519.7px;
+    font-size: 11.2px;
+    font-family: 'DM Mono';
+}
+.container123 {
+    position: absolute;
+    top: 48px;
+    left: calc(50% - 680px);
+    width: 1360px;
+    height: 669px;
+}
+.background {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 765px;
+    text-align: left;
+    font-size: 48px;
+    color: #000;
+    font-family: Inter;
+}
+
